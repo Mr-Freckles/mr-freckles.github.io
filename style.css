@@ -4,6 +4,7 @@ body {
 
 li {
     list-style-type: none;
+    font-size: large;
 }
 a {
     text-decoration: none;
@@ -15,10 +16,6 @@ a:hover {
 
 .text-center {
     text-align: center;
-}
-
-li {
-    font-size: large;
 }
 
 .visit {
