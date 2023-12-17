@@ -2,6 +2,10 @@ body {
     background: #78C0E0;
 }
 
+.background {
+    background: #78C0E0;
+}
+
 li {
     list-style-type: none;
     font-size: large;
