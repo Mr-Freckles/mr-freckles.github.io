@@ -1,10 +1,10 @@
-.background {
+body {
     background: #78C0E0;
 }
 
 li {
     list-style-type: none;
-    font-size: large;
+    text-align: center;
 }
 a {
     text-decoration: none;
@@ -18,6 +18,27 @@ a:hover {
     text-align: center;
 }
 
+li {
+    font-size: large;
+}
+
 .visit {
     padding: 60px 60px 60px 60px;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+.my-channel {
+    color: black;
+}
+
+.logo {
+    border-radius: 100%;
+    padding-top: 7%;
+}
+
+.columns {
+    columns: 2;
 }
