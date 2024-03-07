@@ -5,6 +5,7 @@ body {
 li {
     list-style-type: none;
     text-align: center;
+    font-size: large;
 }
 a {
     text-decoration: none;
@@ -18,27 +19,23 @@ a:hover {
     text-align: center;
 }
 
-li {
-    font-size: large;
-}
-
 .visit {
-    padding: 60px 60px 60px 60px;
-}
-
-.round {
-    border-radius: 50%;
+    padding: 20px;
 }
 
 .my-channel {
     color: black;
 }
 
-.logo {
-    border-radius: 100%;
-    padding-top: 7%;
-}
-
 .columns {
     columns: 2;
+}
+
+.yt {
+    scale: 0.7;
+    margin-top: -100px;
+}
+
+.margin {
+    margin-top: -100px;
 }
